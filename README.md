@@ -22,7 +22,8 @@ My work emphasizes **end-to-end ML pipelines**, not just model training.
 **ML / Data**
 - NumPy, Pandas
 - scikit-learn
-- Matplotlib / Seaborn
+- Matplotlib / Seaborn / plotly
+- streamlit
 
 **GenAI**
 - Prompt engineering
@@ -40,8 +41,6 @@ My work emphasizes **end-to-end ML pipelines**, not just model training.
 
 ## Selected Projects
 
-> Repositories are intentionally small, focused, and complete.
-
 - **Expense Tracker with Intelligent Categorization**  
   ML-assisted expense classification with clean preprocessing, feature engineering, and evaluation.
 
@@ -50,17 +49,6 @@ My work emphasizes **end-to-end ML pipelines**, not just model training.
 
 - **GenAI Utilities**  
   Practical experiments with prompts, embeddings, and LLM-driven tasks (summarization, classification).
-
-(See pinned repositories below.)
-
----
-
-## What You’ll See in My Repositories
-
-- Clear `README.md` explaining *why*, not just *what*
-- Structured code (no notebooks dumped without context)
-- Explicit assumptions and limitations
-- Focus on correctness over hype
 
 ---
 
@@ -73,5 +61,4 @@ My work emphasizes **end-to-end ML pipelines**, not just model training.
 ---
 
 📫 **Contact**
-- GitHub: https://github.com/<your-username>
-- LinkedIn: (optional but recommended)
+- LinkedIn: todo
