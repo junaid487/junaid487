@@ -1,64 +1,106 @@
-# Hi, I'm Junaid Alam
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Junaid Alam | ML & GenAI</title>
 
-I am a GenAI / Machine Learning fresher with a strong focus on **clean code, reproducibility, and practical ML systems**.  
-My work emphasizes **end-to-end ML pipelines**, not just model training.
+<style>
+:root {
+  --bg: #f8fafc;
+  --text: #0f172a;
+  --muted: #475569;
+  --accent: #2563eb;
+  --card: #ffffff;
+}
 
----
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: system-ui, -apple-system, sans-serif;
+  line-height: 1.65;
+}
 
-## What I Focus On
+.container {
+  max-width: 920px;
+  margin: 70px auto;
+  padding: 0 20px;
+}
 
-- Machine Learning fundamentals (data → features → model → evaluation)
-- Practical GenAI workflows (prompting, embeddings, retrieval)
-- Writing readable, maintainable Python
-- Building small but complete ML systems
+h1 {
+  font-size: 2.6rem;
+  margin-bottom: 8px;
+}
 
----
+h2 {
+  margin-top: 60px;
+  font-size: 1.4rem;
+}
 
-## Skills Snapshot
+p {
+  color: var(--muted);
+  max-width: 640px;
+}
 
-**Languages**
-- Python
+.accent {
+  color: var(--accent);
+}
 
-**ML / Data**
-- NumPy, Pandas
-- scikit-learn
-- Matplotlib / Seaborn / plotly
-- streamlit
+.card {
+  margin-top: 24px;
+  padding: 22px;
+  background: var(--card);
+  border-radius: 14px;
+  border-left: 4px solid var(--accent);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.06);
+}
 
-**GenAI**
-- Prompt engineering
-- Embeddings & similarity search
-- LLM-based classification & extraction
-- RAG fundamentals (without heavy frameworks)
+.card h3 {
+  margin-bottom: 6px;
+}
 
-**Engineering**
-- Git & GitHub
-- Modular code structure
-- Reproducible experiments
-- Clear documentation
+.tags {
+  margin-top: 8px;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+</style>
+</head>
 
----
+<body>
+<div class="container">
 
-## Selected Projects
+  <!-- HERO -->
+  <section>
+    <h1>Junaid Alam</h1>
+    <p>
+      Entry-level <span class="accent">ML / GenAI</span> practitioner
+      focused on fundamentals, explainable models, and small end-to-end systems.
+    </p>
+  </section>
 
-- **Expense Tracker with Intelligent Categorization**  
-  ML-assisted expense classification with clean preprocessing, feature engineering, and evaluation.
+  <!-- SKILLS (preview) -->
+  <section>
+    <h2>Skills</h2>
+    <p>
+      Python · Pandas · NumPy · scikit-learn · Embeddings · LLM APIs · Git
+    </p>
+  </section>
 
-- **Loan Prediction Pipeline**  
-  End-to-end ML workflow including EDA, preprocessing, model comparison, and error analysis.
+  <!-- PROJECT (preview) -->
+  <section>
+    <h2>Featured Project</h2>
+    <div class="card">
+      <h3>End-to-End Machine Learning Project</h3>
+      <p>
+        Performed EDA, feature engineering, model comparison, and evaluation
+        on a real-world dataset.
+      </p>
+      <div class="tags">
+        Python · scikit-learn · Data Analysis
+      </div>
+    </div>
+  </section>
 
-- **GenAI Utilities**  
-  Practical experiments with prompts, embeddings, and LLM-driven tasks (summarization, classification).
-
----
-
-## Currently Improving
-
-- Model evaluation & error analysis
-- Writing production-style ML code
-- Understanding trade-offs in GenAI systems
-
----
-
-📫 **Contact**
-- LinkedIn: todo
+</div>
+</body>
+</html>
