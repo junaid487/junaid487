@@ -61,4 +61,5 @@ My work emphasizes **end-to-end ML pipelines**, not just model training.
 ---
 
 📫 **Contact**
-- LinkedIn: todo
+- LinkedIn: https://www.linkedin.com/in/junaid-alam-81aba93a8/
+- GitHub: https://junaid487.github.io/junaid487/
