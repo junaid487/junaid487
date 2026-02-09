@@ -5,61 +5,80 @@ My work emphasizes **end-to-end ML pipelines**, not just model training.
 
 ---
 
-## What I Focus On
+## 🔍 What I’ve Learned
 
-- Machine Learning fundamentals (data → features → model → evaluation)
-- Practical GenAI workflows (prompting, embeddings, retrieval)
-- Writing readable, maintainable Python
-- Building small but complete ML systems
-
----
-
-## Skills Snapshot
-
-**Languages**
-- Python
-
-**ML / Data**
+### Programming & Data Analysis
+- Python (core + applied)
 - NumPy, Pandas
-- scikit-learn
-- Matplotlib / Seaborn / plotly
-- streamlit
+- Data cleaning, preprocessing, and feature engineering
 
-**GenAI**
-- Prompt engineering
-- Embeddings & similarity search
-- LLM-based classification & extraction
-- RAG fundamentals (without heavy frameworks)
+### Data Visualization
+- Matplotlib
+- Seaborn
+- Plotly (interactive visualizations)
 
-**Engineering**
-- Git & GitHub
-- Modular code structure
-- Reproducible experiments
-- Clear documentation
+### Machine Learning
+- Linear Regression
+- Logistic Regression
+- K-Nearest Neighbors (KNN)
+- Decision Trees
+- Random Forest
+- AdaBoost
+- K-Means Clustering
+- Handling imbalanced datasets using **SMOTE**
+- Model evaluation using scikit-learn
 
----
-
-## Selected Projects
-
-- **Expense Tracker with Intelligent Categorization**  
-  ML-assisted expense classification with clean preprocessing, feature engineering, and evaluation.
-
-- **Loan Prediction Pipeline**  
-  End-to-end ML workflow including EDA, preprocessing, model comparison, and error analysis.
-
-- **GenAI Utilities**  
-  Practical experiments with prompts, embeddings, and LLM-driven tasks (summarization, classification).
+### Natural Language Processing (Ongoing)
+- Text preprocessing and normalization
+- Tokenization and vectorization concepts
+- Classical NLP pipelines
 
 ---
 
-## Currently Improving
 
-- Model evaluation & error analysis
-- Writing production-style ML code
-- Understanding trade-offs in GenAI systems
+## 🧠 My Approach
+
+- Focus on **understanding how and why algorithms work**
+- Avoid black-box usage of libraries
+- Write **clean, readable, and reproducible code**
+- Prefer depth over shallow demos
 
 ---
 
-📫 **Contact**
-- LinkedIn: https://www.linkedin.com/in/junaid-alam-81aba93a8/
-- GitHub: https://junaid487.github.io/junaid487/
+## 📂 Projects
+
+This GitHub contains:
+- End-to-end machine learning projects
+- Exploratory data analysis (EDA) and visualization workflows
+- NLP experiments and learning notebooks
+
+Each project includes:
+- Clear problem statements
+- Data preprocessing steps
+- Model selection and evaluation
+- Key learnings and limitations
+
+---
+
+## 🛠 Tech Stack
+
+- **Language:** Python
+- **Libraries:** NumPy, Pandas, scikit-learn
+- **Visualization:** Matplotlib, Seaborn, Plotly
+- **Tools:** Jupyter Notebook, Git, GitHub
+
+---
+
+## 📌 Current Focus
+
+- Strengthening NLP fundamentals
+- Understanding embeddings and transformers
+- Moving from classical ML to Generative AI
+- Writing production-oriented ML code
+
+---
+
+## 📫 Connect
+
+- GitHub: https://github.com/your-username
+- LinkedIn: https://linkedin.com/in/your-profile
