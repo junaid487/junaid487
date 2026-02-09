@@ -39,9 +39,7 @@ My work emphasizes **end-to-end ML pipelines**, not just model training.
 ## 🧠 My Approach
 
 - Focus on **understanding how and why algorithms work**
-- Avoid black-box usage of libraries
 - Write **clean, readable, and reproducible code**
-- Prefer depth over shallow demos
 
 ---
 
@@ -65,7 +63,7 @@ Each project includes:
 - **Language:** Python
 - **Libraries:** NumPy, Pandas, scikit-learn
 - **Visualization:** Matplotlib, Seaborn, Plotly
-- **Tools:** Jupyter Notebook, Git, GitHub
+- **Tools:** Jupyter Notebook, GitHub, StreamLit
 
 ---
 
@@ -80,5 +78,5 @@ Each project includes:
 
 ## 📫 Connect
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
+- portfolio: https://junaid487.github.io/
+- LinkedIn: https://www.linkedin.com/in/junaid-alam-81aba93a8/
