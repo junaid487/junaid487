@@ -1,53 +1,40 @@
 # Hi, I'm Junaid Alam 👋
 
-**Aspiring Data Scientist & ML Engineer** I bridge the gap between raw data and actionable insights. My focus is on building **end-to-end ML pipelines** with an emphasis on **clean code, reproducibility, and practical systems.**
-
----
-
-## 🚀 Featured Project
-
-### 🏆 [Project Name - e.g., Credit Scoring System]
-*A brief one-sentence description of what the project achieves (e.g., Predicting loan defaults using ensemble learning).*
-
-- **Key Tech:** Python, Scikit-Learn, SMOTE, Streamlit.
-- **The Problem:** Handled highly imbalanced data where 95% of cases were "Non-Defaults."
-- **The Solution:** Implemented SMOTE for oversampling and optimized a Random Forest model to prioritize Recall.
-- **[👉 View Repository](link-to-your-repo)** | **[🌐 Live Demo](link-to-streamlit-if-any)**
+**GenAI Developer | Machine Learning Engineer | Data Scientist** I specialize in building functional AI-driven applications and end-to-end ML pipelines. My approach combines **clean software engineering** with **statistical rigor** to move beyond notebooks and into production.
 
 ---
 
 ## 🛠 Tech Stack
 
-### **Data Science & ML**
-- **Languages:** Python (Advanced), SQL (Foundational)
-- **Libraries:** NumPy, Pandas, Scikit-learn
-- **ML Techniques:** Regression, Tree-based Models (Random Forest, AdaBoost), Clustering (K-Means)
-- **Data Ops:** Feature Engineering, Handling Imbalanced Data (SMOTE), Model Evaluation
+### **AI & Machine Learning**
+- **Core ML:** Supervised & Unsupervised Learning, Scikit-learn, Feature Engineering.
+- **GenAI (In Progress):** Prompt Engineering, RAG (Retrieval-Augmented Generation), LLM integration.
+- **Deep Learning:** Understanding of Neural Networks and Transformer architectures.
 
-### **Visualization & Deployment**
-- **Viz:** Matplotlib, Seaborn, Plotly (Interactive)
-- **Deployment:** Streamlit, GitHub Pages
+### **Data Analysis & Visualization**
+- **Data:** Python (NumPy, Pandas), SQL (Foundational).
+- **Visualization:** Matplotlib, Seaborn, Plotly (Interactive Dashboards).
+- **Imbalanced Data:** Expertise in SMOTE and cost-sensitive learning.
 
-### **Tools & Workflow**
-- Git & GitHub (Version Control)
-- Jupyter Notebooks / VS Code
-- Clean Code Practices & Documentation
+### **Development & Deployment**
+- **Frameworks:** Streamlit (Rapid Prototyping), Flask.
+- **Tools:** Git/GitHub, VS Code, Jupyter, Linux Basics.
 
 ---
 
 ## 🧠 My Approach
 
-- **Why over How:** I don’t just import libraries; I focus on understanding the underlying mathematics of algorithms.
-- **Production-Ready:** I strive to write modular code that is ready for deployment, not just one-off notebooks.
-- **End-to-End:** My workflow covers everything from raw data ingestion to interactive dashboards.
+- **Model to System:** I don't just train models; I build interfaces (Streamlit) to make data accessible.
+- **Reproducibility:** I prioritize modular code and environment management to ensure experiments are repeatable.
+- **Continuous Evolution:** Actively transitioning from classical ML to the Generative AI stack (LLMs, Vector Databases).
 
 ---
 
-## 📌 Current Focus (Learning Path)
+## 📌 Goals for 2026
 
-- 🏗️ **NLP:** Mastering Embeddings, Transformers, and LLM orchestration.
-- 🗄️ **SQL:** Deepening complex query optimization for Data Analysis.
-- 🤖 **GenAI:** Moving from classical ML to building RAG-based applications.
+- 🚀 Deploying my first LLM-based agent.
+- 📊 Contributing to Open Source data science projects.
+- 🎓 Deepening expertise in MLOps (CI/CD for ML).
 
 ---
 
@@ -55,4 +42,3 @@
 
 - **Portfolio:** [junaid487.github.io](https://junaid487.github.io/)
 - **LinkedIn:** [Junaid Alam](https://www.linkedin.com/in/junaid-alam-81aba93a8/)
-- **Email:** [Your Email Here]
