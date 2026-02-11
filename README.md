@@ -1,44 +1,56 @@
-# Hi, I'm Junaid Alam 👋
+![Header](https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=Junaid%20Alam&fontSize=90&animation=fadeIn&fontAlignY=38&desc=GenAI%20|%20ML%20|%20Data%20Science&descSize=20&descAlignY=60)
 
-**GenAI Developer | Machine Learning Engineer | Data Scientist** I specialize in building functional AI-driven applications and end-to-end ML pipelines. My approach combines **clean software engineering** with **statistical rigor** to move beyond notebooks and into production.
+# <p align="center">Hi, I'm Junaid Alam 👋</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/GenAI-Explorer-blueviolet?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Machine_Learning-Engineer-blue?style=for-the-badge&logo=scikit-learn" />
+  <img src="https://img.shields.io/badge/Data_Science-Analyst-green?style=for-the-badge&logo=python" />
+</p>
 
-## 🛠 Tech Stack
-
-### **AI & Machine Learning**
-- **Core ML:** Supervised & Unsupervised Learning, Scikit-learn, Feature Engineering.
-- **GenAI (In Progress):** Prompt Engineering, RAG (Retrieval-Augmented Generation), LLM integration.
-- **Deep Learning:** Understanding of Neural Networks and Transformer architectures.
-
-### **Data Analysis & Visualization**
-- **Data:** Python (NumPy, Pandas), SQL (Foundational).
-- **Visualization:** Matplotlib, Seaborn, Plotly (Interactive Dashboards).
-- **Imbalanced Data:** Expertise in SMOTE and cost-sensitive learning.
-
-### **Development & Deployment**
-- **Frameworks:** Streamlit (Rapid Prototyping), Flask.
-- **Tools:** Git/GitHub, VS Code, Jupyter, Linux Basics.
+<p align="center">
+  <strong>Aspiring GenAI & ML Engineer</strong> • Focused on building functional AI systems and clean, reproducible data pipelines.
+</p>
 
 ---
 
-## 🧠 My Approach
+### 🛠 Tech Stack
 
-- **Model to System:** I don't just train models; I build interfaces (Streamlit) to make data accessible.
-- **Reproducibility:** I prioritize modular code and environment management to ensure experiments are repeatable.
-- **Continuous Evolution:** Actively transitioning from classical ML to the Generative AI stack (LLMs, Vector Databases).
+<div align="center">
+
+| **Category** | **Tools & Technologies** |
+| :--- | :--- |
+| **AI/ML** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) |
+| **GenAI** | ![LLM](https://img.shields.io/badge/LLMs-Prompt_Eng-orange) ![RAG](https://img.shields.io/badge/RAG-Vector_DBs-red) |
+| **Viz/Deployment** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-239120?style=flat&logo=plotly&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+
+</div>
 
 ---
 
-## 📌 Goals for 2026
+### 🧠 My Approach
 
-- 🚀 Deploying my first LLM-based agent.
-- 📊 Contributing to Open Source data science projects.
-- 🎓 Deepening expertise in MLOps (CI/CD for ML).
+- 🏗️ **Architectural Mindset:** I don't just write scripts; I build end-to-end ML systems.
+- 🧹 **Clean Code:** Strong emphasis on modularity, documentation, and reproducibility.
+- 📈 **Data Storytelling:** Translating complex model metrics into business value.
 
 ---
 
-## 📫 Connect with Me
+### 📊 GitHub Stats
 
-- **Portfolio:** [junaid487.github.io](https://junaid487.github.io/)
-- **LinkedIn:** [Junaid Alam](https://www.linkedin.com/in/junaid-alam-81aba93a8/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=junaid487&show_icons=true&theme=radical&hide_border=true" alt="Junaid's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaid487&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+
+<p align="center">
+<a href="https://www.linkedin.com/in/junaid-alam-81aba93a8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:junaidalam542@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://junaid487.github.io/"><img src="https://img.shields.io/badge/Portfolio-252422?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
