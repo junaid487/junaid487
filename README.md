@@ -1,4 +1,6 @@
-<img src="[https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=Junaid%20Alam&fontSize=80&animation=fadeIn&fontAlignY=38&desc=GenAI%20%7C%20ML%20%7C%20Data%20Science&descSize=20&descAlignY=60](https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=Junaid%20Alam&fontSize=80&animation=fadeIn&fontAlignY=38&desc=GenAI%20%7C%20ML%20%7C%20Data%20Science&descSize=20&descAlignY=60)" width="100%" />
+<p align="center">
+  <img src="Black Minimalist Daily Quote LinkedIn Banner.png" width="100%" alt="Junaid Alam Banner">
+</p>
 
 # <p align="center">Hi, I'm Junaid Alam 👋</p>
 
@@ -8,7 +10,7 @@
   <img src="https://img.shields.io/badge/Data_Science-Analyst-green?style=for-the-badge&logo=python" />
 </p>
 
-<p>
+<p align="center">
   <strong>Aspiring AI Engineer & Data Scientist</strong> • Bridging the gap between raw data and actionable AI systems.
 </p>
 
@@ -16,7 +18,7 @@
 
 ### 🛠 Tech Stack
 
-<div>
+<div align="center">
 
 | Category | Tools & Technologies |
 | :--- | :--- |
